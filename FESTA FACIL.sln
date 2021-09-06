@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FESTA FACIL", "FESTA FACIL.csproj", "{0BF0EF6D-8429-477B-8397-C5390B9FA49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF0EF6D-8429-477B-8397-C5390B9FA49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF0EF6D-8429-477B-8397-C5390B9FA49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF0EF6D-8429-477B-8397-C5390B9FA49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF0EF6D-8429-477B-8397-C5390B9FA49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8691A5-88D7-456E-A31B-6893EA609E7C}
+	EndGlobalSection
+EndGlobal
