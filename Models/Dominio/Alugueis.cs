@@ -7,10 +7,12 @@ namespace FESTA_FACIL.Models.Dominio
 {
     public class Alugueis
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
+
+        public string Descricao { get; set; }
 
         //classe para vizualizar os alugueis cadastrados na classe aluguel
 
                 }
     }
-}
+
