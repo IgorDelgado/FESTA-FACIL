@@ -49,8 +49,6 @@ namespace FESTA_FACIL.Models.Dominio
        
         [Display(Name = "Contato")]
         [Required(ErrorMessage = "Contato é obrigatório")]
-        [RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
-                     ErrorMessage = "Este número de telefone é inválido")]
-        public string Contato { get; set; }
+                public string Contato { get; set; }
     }
 }

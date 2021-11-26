@@ -19,6 +19,8 @@ namespace FESTA_FACIL.Models
 
         public DbSet   <Cliente> Clientes { get; set; }
 
+        public DbSet<FESTA_FACIL.Models.Dominio.Aluguel> Aluguel { get; set; }
+
       
 
 

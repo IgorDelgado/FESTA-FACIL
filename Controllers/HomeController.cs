@@ -7,6 +7,14 @@ namespace WEBCOREADS2021.Controllers
 {
     public class HomeController : Controller
     {
+                       
+            public IActionResult Login()
+            {
+                return View();
+        }
+
+
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
